@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on projects for my ECE degree at UNB.
 - 🌱 I’m currently learning how to code in C, and VHDL.
 - 😄 Pronouns: He/Him/Lui/Il
-- 
+
 > It is possible to commit no mistakes and still lose. That is not a weakness, that is life
 
 — Jean-Luc Picard, Star Trek TNG
